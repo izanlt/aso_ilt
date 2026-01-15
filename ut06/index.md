@@ -7,3 +7,4 @@
 - [Práctica 6.5](pr0605/pr0605.md)
 - [Práctica 6.5.2](pr0605.2/pr0605.2.md)
 - [Práctica 6.7](pr0607/pr0607.md)
+- [Práctica 6.8](pr0608/pr0608.md)
